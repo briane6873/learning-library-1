@@ -24,7 +24,18 @@ This Workshop assumes you have:
     - Workshop: Generate SSH Keys
     - Workshop: Prepare Setup
     - Workshop: Environment Setup
+    - run the following from a terminal:
+  
+```
+    <copy>sudo su - ggadmin
+    cd /u01/ggbd_home/bin
+    ./ServiceManager
+    </copy>
+```
 
+![](./images/srvmgr.png " ")
+
+**Note: Service might already be started**
 
 ## Task 0: Running your Lab
 ### Login to Host using SSH Key based authentication
