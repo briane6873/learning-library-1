@@ -114,6 +114,19 @@ Refer to *Lab Environment Setup* for detailed instructions relevant to your SSH 
     ```
     ![](./images/8.png " ")
 
+      ```
+        <copy>
+        exit
+         <copy>
+      ```
+5. Start Kafka Broker
+      ```
+              <copy>
+     startkafkabroker
+        </copy>
+    ```
+     ![](./images/8a.png " ")
+
 Source deployment completed!
 
 ## Task 2: GoldenGate Configuration for Kafka as Target
