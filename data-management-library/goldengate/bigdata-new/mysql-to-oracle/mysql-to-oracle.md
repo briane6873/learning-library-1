@@ -100,13 +100,13 @@ Refer to *Lab Environment Setup* for detailed instructions relevant to your SSH 
 
     #Handler properties for Oracle database target with JDBC Metadata provider
     gg.handler.jdbcwriter.DriverClass=oracle.jdbc.driver.OracleDriver
-    gg.handler.jdbcwriter.connectionURL=jdbc:oracle:thin:@129.213.97.81:1521/PDB1
+    gg.handler.jdbcwriter.connectionURL=jdbc:oracle:thin:@xxx.xxx.xx.xx:1521/PDB1
     gg.handler.jdbcwriter.userName=employees
     gg.handler.jdbcwriter.password=employees
     gg.classpath=/u01/app/jars/oracle_jdbc/ojdbc8-full/ojdbc8.jar
     #JDBC Metadata provider for Oracle target
     gg.mdp.type=jdbc
-    gg.mdp.ConnectionUrl=jdbc:oracle:thin:@129.213.97.81:1521/PDB1
+    gg.mdp.ConnectionUrl=jdbc:oracle:thin:@xxx.xxx.xx.xx:1521/PDB1
     gg.mdp.DriverClassName=oracle.jdbc.driver.OracleDriver
     gg.mdp.UserName=employees
     gg.mdp.Password=employees
@@ -154,4 +154,4 @@ Refer to *Lab Environment Setup* for detailed instructions relevant to your SSH 
 ## Acknowledgements
 * **Author** - Brian Elliott, Data Integration Team, Oracle, August 2020
 * **Contributors** - Meghana Banka, Rene Fontcha
-* **Last Updated By/Date** - Rene Fontcha, Master Principal Solutions Architect, NA Technology, October 2020
+* **Last Updated By/Date** - Brian Elliott, Data Integration Team, Oracle, December 2021

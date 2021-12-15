@@ -246,11 +246,11 @@ Now that the source side is setup, let us configure GG on the target side (HBase
 ## Task 4: GoldenGate Results using HUE
 
 1. Open a Browser window from your local machine to visualize data from HUE frontend application.
-    - URL
+    - URL (IP from Launch Workshop)
 
     ```
     <copy>http://<Your Host Public IP address>:8888</copy>
-    e.g: http://111.222.111.222:8888
+    e.g: http://xxx.xxx.xx.xx:8888
     ```
 
     - Credentials: cloudera/cloudera

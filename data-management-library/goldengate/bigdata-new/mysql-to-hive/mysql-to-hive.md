@@ -242,11 +242,11 @@ Now that GG processes have been created and started on both the source and targe
 ## Task 5: GoldenGate Results using HUE
 
 1. Open a Browser window from your local machine to visualize data from HUE frontend application.
-    - URL
+    - URL (From Launch Workshop)
 
     ```
     <copy>http://<Your Host Public IP address>:8888</copy>
-    e.g: http://111.222.111.222:8888
+    e.g: http://xxx.xxx.xx.xx:8888
     ```
 
     - Credentials: cloudera/cloudera
@@ -288,4 +288,4 @@ You may now *proceed to the next lab*.
 ## Acknowledgements
 * **Author** - Brian Elliott, Data Integration Team, Oracle, August 2020
 * **Contributors** - Meghana Banka, Rene Fontcha
-* **Last Updated By/Date** - Rene Fontcha, Master Principal Solutions Architect, NA Technology, October 2020
+* **Last Updated By/Date** - Brian Elliott, Data Integration Team, Oracle, December 2021
