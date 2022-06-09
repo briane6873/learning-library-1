@@ -2,9 +2,7 @@
 June 9 2022
 ## Introduction
 
-Since we’ve already done multiple labs, this one will take what we used so far to script this using DB container reset scripts, SQL scripts to setup AutoCDR in the database, OGGCA silent deployment scripts and GG REST API scripts to do a rapid deployment.
-
-**Bi-Directional Replication, AutoCDR, Rapid Deployment and Intro to the Admin Client**
+This review lab will take what we used so far to script this using DB container reset scripts, SQL scripts to setup AutoCDR in the database, OGGCA silent deployment scripts and GG REST API scripts to do a rapid deployment.
 
 ## Objectives
 
@@ -21,85 +19,7 @@ Using the GoldenGate Microservices Adminclient, you can perform tasks to manage 
 
 *Estimated Lab Time*: - 60 mins
 
-### Prerequisites
-This lab assumes you have:
-- A Free Tier, Paid or LiveLabs Oracle Cloud account
-- You have completed:
-    - Lab: Prepare Setup (*Free-tier* and *Paid Tenants* only)
-    - Lab: Environment Setup
-    - Lab: Initialize Environment
-    - Lab: Configure GoldenGate
-
-In this lab we will setup GoldenGate Microservices
-
-
-## Task 1: Recreate Deployments Using Adminclient
-
- Open a terminal session
-
-![](./images/terminal3.png " ")
-
-    ````
-    <copy>sudo su - oracle</copy>
-    ````
-
-
-
-## Required Artifacts
-
-VNC Client for the deployment
-
-Browser to check the deployment
-
-Swingbench to apply transactions
-
-### Task 1: Run a script to perform a rapid deployment.
-
-1. Open up a terminal window and change directory to Lab6 and Review script build_all_bi_di.sh.
-
-                [oracle@OGG181DB183 ~]$ cd ~/OGG181_WHKSHP/Lab6
-```
-<copy>cd ~/OGG181_WHKSHP/Lab6</copy>
-```
-
-                [oracle@OGG181DB183 Lab6]$ cat build_all_bi_di.sh
-```
-<copy>cat build_all_bi_di.sh </copy>
-```
-
-
-2. This script performs the following:
-
-Drops the existing container databases.
-
-Clones two container databases from a base container.
-
-Deletes the two deployments (Atlanta and SanFran).  This will remove any current lab setups.
-
-Creates the two deployments again.
-
-Creates new credentials for both deployments.
-
-Adds Schema supplemental logging to both container databases for the SOE schema.
-
-Adds checkpoint tables on both container databases.
-
-Adds the Extract, Distribution Path and Replicat for both deployments.  This includes the correct
-parameters for the Extract and Replicats.
-
-3. Run the **build_all_bi_di.sh** script
-
-                [oracle@OGG181DB183 Lab6]$ ./build_all_bi_di.sh
-```
-<copy>./build_all_bi_di.sh </copy>
-```
-While it's running note the messages displayed that informs what has been added to the services.You should see the below message to be sure that all the steps are completed.
-
-![](images/600/Lab600_image6001.PNG)
-![](images/600/Lab600_image6002.PNG)
-
-
-### Task 2: Check the deployment using the AdminClient
+### Task 1: Check the deployment using the AdminClient
 
 This step will be a short introduction to the AdminClient.  If you’re familiar with Classic GoldenGate, this would be like using GGSCI.  However, the advantage with the AdminClient is that you can connect to separate GG deployments from this one interface.  With GGSCI you would need to execute it in each server environment where GG is installed.  
 In this step we will use the AdminClient to check the deployment instead of the web interface.
