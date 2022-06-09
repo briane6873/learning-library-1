@@ -1,5 +1,5 @@
 # Introduction Data Mesh and GoldenGate Microservices
-
+June 9 2022
 This hands-on lab is designed to demonstrate how Oracle GoldenGate 19c Microservices can be used to setup a replication environment by a mix of web page, shell scripts and Rest API calls.  For ease of execution, all commands to be executed are provided in shell scripts staged on the instance.
 
 The labs will walk the end-user through how to add all components of Oracle GoldenGate replication.
