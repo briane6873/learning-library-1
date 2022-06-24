@@ -1,5 +1,5 @@
 # Reset Lab
-June 9 2022
+
 ## Introduction
 This lab will reset the GoldenGate Microservices Workshop and allow you to start from the beginning if required.
 ........

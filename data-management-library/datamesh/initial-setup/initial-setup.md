@@ -1,5 +1,5 @@
 # Initialize Environment
-June 9 2022
+
 ## Introduction
 In this lab we will setup the required database and GoldenGate replication users.
 
