@@ -46,8 +46,16 @@ Using the details from the two steps above, proceed to the lab *Environment Setu
 
 You may now [proceed to the next lab](#next).
 
-## Acknowledgements
 
-* **Author** - Rene Fontcha, LiveLabs Platform Lead, NA Technology
-* **Contributors** - Kay Malcolm, Product Manager, Database Product Management
-* **Last Updated By/Date** - Rene Fontcha, LiveLabs Platform Lead, NA Technology, September 2021
+## Learn More
+* [Oracle Analytics Server Documentation](https://docs.oracle.com/en/middleware/bi/analytics-server/index.html)
+* [https://www.oracle.com/business-analytics/analytics-server.html](https://www.oracle.com/business-analytics/analytics-server.html)
+* [https://www.oracle.com/business-analytics](https://www.oracle.com/business-analytics)
+
+
+## Acknowledgements
+* **Author** - Brian Elliott, Data Integration, August 2022
+* **Contributors** - X
+- **Last Updated By/Date** - Brian Elliott, Data Integration, August 2022
+
+

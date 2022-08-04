@@ -325,12 +325,15 @@ Oracle Analytics provides users choice and flexibility with deployment.  Users c
 
 You may now [proceed to the next lab](#next).
 
+
 ## Learn More
 * [Oracle Analytics Server Documentation](https://docs.oracle.com/en/middleware/bi/analytics-server/index.html)
 * [https://www.oracle.com/business-analytics/analytics-server.html](https://www.oracle.com/business-analytics/analytics-server.html)
 * [https://www.oracle.com/business-analytics](https://www.oracle.com/business-analytics)
 
+
 ## Acknowledgements
-* **Authors** - Diane Grace, Manager, Analytics Platform Specialist Team, NA Technology
-* **Contributors** - Linda Dest, Jyotsana Rawat, Rene Fontcha
-* **Last Updated By/Date** - Rene Fontcha, LiveLabs Platform Lead, NA Technology, September 2021
+* **Author** - Brian Elliott, Data Integration, August 2022
+* **Contributors** - X
+- **Last Updated By/Date** - Brian Elliott, Data Integration, August 2022
+

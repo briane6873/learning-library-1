@@ -10,7 +10,7 @@ A data mesh aims to link data producers directly to business users and, to the g
 
 Oracle’s focus on data mesh has been in providing a platform for our customers that can address these emerging technology requirements. This includes tools for data products; decentralized, event-driven architectures; and streaming patterns for data in motion. For data product domain modeling and other sociotechnical concerns, Oracle aligns with the work being done by the thought leader in data mesh, Zhamak Dehghani.
 
-  ![](./images/dm.png " ")
+  ![]( ![](images/dm.png)" ")
 
 
 ### Benefits of a Data Mesh
@@ -20,3 +20,12 @@ Investing in a data mesh can yield impressive benefits, including:
 * More than 99.999% operational data availability (PDF) using microservices-based data pipelines for data consolidation and data migrations.
 * 10X faster innovation cycles, shifting away from manual, batch-oriented ETL to continuous transformation and loading (CTL).
 * More than 70% reduction in data engineering, gains in CI/CD, no-code and self-serve data pipeline tooling, and agile development
+
+## Learn More
+
+* [GoldenGate Microservices](https://docs.oracle.com/en/middleware/goldengate/core/19.1/understanding/getting-started-oracle-goldengate.html#GUID-F317FD3B-5078-47BA-A4EC-8A138C36BD59)
+
+## Acknowledgements
+* **Author** - Brian Elliott, Data Integration, August 2022
+* **Contributors** - X
+- **Last Updated By/Date** - Brian Elliott, Data Integration, August 2022

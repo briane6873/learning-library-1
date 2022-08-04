@@ -113,8 +113,12 @@ When you are finished don't forget to rate this workshop!  We rely on this feedb
 
 If you selected the **Green Button** for this workshop and still have an active reservation, you can also rate by going to My Reservations -> Launch Workshop.
 
-## Acknowledgements
+## Learn More
 
-* **Author** - Hadi Javaherian, Solution Engineer
-* **Contributors** - Shrinidhi Kulkarni, Meghana Banka, Rene Fontcha
-* **Last Updated By/Date** - Rene Fontcha, LiveLabs Platform Lead, NA Technology, February 2021
+* [GoldenGate Microservices](https://docs.oracle.com/en/middleware/goldengate/core/19.1/understanding/getting-started-oracle-goldengate.html#GUID-F317FD3B-5078-47BA-A4EC-8A138C36BD59)
+
+## Acknowledgements
+* **Author** - Brian Elliott, Data Integration, August 2022
+* **Contributors** - X
+- **Last Updated By/Date** - Brian Elliott, Data Integration, August 2022
+

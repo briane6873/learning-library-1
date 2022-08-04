@@ -33,7 +33,9 @@ You may now [proceed to the next lab](#next).
 * [https://www.oracle.com/business-analytics/analytics-server.html](https://www.oracle.com/business-analytics/analytics-server.html)
 * [https://www.oracle.com/business-analytics](https://www.oracle.com/business-analytics)
 
+
 ## Acknowledgements
-* **Authors** - Diane Grace, Manager, Analytics Platform Specialist Team, NA Technology
-* **Contributors** - Linda Dest, Jyotsana Rawat, Rene Fontcha
-* **Last Updated By/Date** - Rene Fontcha, LiveLabs Platform Lead, NA Technology, January 2021
+* **Author** - Brian Elliott, Data Integration, August 2022
+* **Contributors** - X
+- **Last Updated By/Date** - Brian Elliott, Data Integration, August 2022
+

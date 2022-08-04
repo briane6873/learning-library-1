@@ -49,6 +49,7 @@ You may now [proceed to the next lab](#next).
 * [GoldenGate Microservices](https://docs.oracle.com/en/middleware/goldengate/core/19.1/understanding/getting-started-oracle-goldengate.html#GUID-F317FD3B-5078-47BA-A4EC-8A138C36BD59)
 
 ## Acknowledgements
-* **Author** - Brian Elliott, Data Integration Team, Oracle, November 2020
-* **Contributors** -Zia Khan, Meghana Banka, Rene Fontcha
-- **Last Updated By/Date** - Rene Fontcha, LiveLabs Platform Lead, NA Technology, April 2021
+* **Author** - Brian Elliott, Data Integration, August 2022
+* **Contributors** - X
+- **Last Updated By/Date** - Brian Elliott, Data Integration, August 2022
+

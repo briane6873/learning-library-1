@@ -46,11 +46,11 @@ This lab assumes you have:
     Password: <copy>Welcome1</copy>
     ```
 
-    ![](./images/goldegate-login.png" ")
+    ![](![](images/goldengate-login.png)" ")
 
 3. Confirm successful login. Please note that it may take up to 5 minutes after instance provisioning for all processes to fully start.
 
-    ![](./images/goldegate-landing.png" ")
+    ![]![](images/goldengate-landing.png)(" ")
 
     If successful, the page above is displayed and as a result your environment is now ready.  
 
@@ -70,7 +70,7 @@ This lab assumes you have:
     </copy>
     ```
 
-    ![](./images/create_tables.png " ")
+   ![]( ![](images/create_tables.png)" ")
 
 You may now [proceed to the next lab](#next).
 
@@ -95,7 +95,7 @@ You may now [proceed to the next lab](#next).
     </copy>
     ```
 
-    ![](images/oraclegoldengate.png " ")
+    ![](./images/oraclegoldengate.png " ")
 
 6. If you see questionable output(s), failure or down component(s), restart the corresponding service(s) accordingly
 
@@ -176,6 +176,6 @@ You may now [proceed to the next lab](#next).
 * [GoldenGate Microservices](https://docs.oracle.com/en/middleware/goldengate/core/19.1/understanding/getting-started-oracle-goldengate.html#GUID-F317FD3B-5078-47BA-A4EC-8A138C36BD59)
 
 ## Acknowledgements
-* **Author** - Brian Elliott, Data Integration, November 2020
-* **Contributors** - Zia Khan, Rene Fontcha
-- **Last Updated By/Date** - Rene Fontcha, LiveLabs Platform Lead, NA Technology, September 2021
+* **Author** - Brian Elliott, Data Integration, August 2022
+* **Contributors** - X
+- **Last Updated By/Date** - Brian Elliott, Data Integration, August 2022
